@@ -1,0 +1,22 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+#menubar{
+	position: absolute;
+	left: 200px;
+	top:100px;
+}
+#main-container{
+	position: absolute;
+	left: 50px;
+	top:120px;
+	min-height: 500px;
+	width:1250px;
+	border:2px solid black;
+}
+#register{
+    position: absolute;
+	left: 1250px;
+	//top:120px;
+}

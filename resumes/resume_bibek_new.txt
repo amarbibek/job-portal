@@ -1,0 +1,82 @@
+RESUME
+
+
+
+
+Bibek Kumar Kushwaha
+Email	: kumar.bee014@gmail.com 
+Mobile: +918892739936
+Mobile : +918277610901
+                  	 
+
+Career Objective
+To achieve a career in a progressive environment where learning, innovation and creativity are encouraged, where my skills & knowledge can be enhanced to their maximum potential to contribute to the overall success and growth of the organization
+MYSELF
+Positive Attitude
+Good and Quick Learner
+Work whole-heartedly
+Social
+EDUCATION
+Degree	Branch	Year of Passing	College/School	University/Board	Percentage
+Bachelor of  Computer Application	Computer Science 	2016	Acharya Institute of Graduate Studies	Bangalore University	75%
+      
+ XII	Science	2012	    MMC, Janakpur, Nepal	HSEB	69%
+X	-	2010	Vinayak, Dhalkewar, Nepal	SLC	76%
+TECHNICAL SKILL SET
+Skills	Details
+Programming  Languages	C, C++, HTML5, CSS3, JS, PHP, PHP FRAMEWORK (laravel basics), VB6, JAVA (basic knowledge of web), Ethical hacking (basics), SQL.
+Database	MYSQL, MS-ACCESS
+PROJECT-DETAILS
+Project Title    AIRLINES RESERVATION SYSTEM
+Project Description	It’s a prototype where user can search and book Airline tickets. The admin has got all the privileges and can Add, Modify, Delete the Flights.    
+Project Title    COLLEGE MANAGEMENT SYSTEM
+Project Description	It's a prototype where users can search attendance and results and admin can add results and attendance from admin panel.
+Project Title	JOB PORTAL
+Project Description	It’s a prototype where a job seeker can search and apply for job, companies or recruiters can post jobs and call candidates for interview and admin have control over job seekers and employers account.
+Project Title	SOCIAL NETWORKING SITE
+Project Description	It’s a prototype where logged in user can update new posts, manage their profile, add friends and can chat personally. It also has notification module, 
+AREA OF INTEREST
+Coding
+Internet Surfing
+Web Development
+Science Fiction
+
+ACHIEVEMENTS
+      ?	Indian embassy scholar for studying Bachelor in Computer Application funded by   	ICCR 	(Indian Council for Cultural Relations).
+      ?	Winner of various inter-school quiz and intra-school essay competitions.
+      ?	Winner of intra-college long jump competition.
+      ?	Participated in various intra-college Coding and Debugging events in Bangalore.
+
+VOLUNTEER EXPERIENCE
+Volunteered as an event guide for various women rehabilitation, child right and community development events organized by WOREC NEPAL.
+Volunteered as a guide for plantation organized by school (Shree Laxmi Sec. School).
+
+SKILLS (Technical/Non-technical)
+Knowledge of web based application.
+Understand easily about the technologies used for the development process.
+Basic idea about game development and programming methodology.
+Ability to coordinate the team.
+
+
+
+ORGANIZER EXPERIENCE
+Organized "Coding and Debugging" event in national level fest in INDIA (Bangalore) and developed desktop based application for the quantitative aptitude round.
+
+CERTIFICATION COURSES
+C, C++ training course during college  for 2 months
+PHP (OOPS, Laravel framework) for 1 month
+Web based java application development.
+
+
+Personal Information
+  Full Name	  Bibek Kumar Kushwaha
+  Date of Birth	  23-May-1993
+  Permanent Address	  Bengadawar-01, Dhanusha, Janakpur, Nepal
+  Present Address	  #06, RNS Enclave, 8th Cross, Hanumanthe Gowda Mian Road,
+  Near Sapthagiri Engg. College, Bengaluru - 560057
+  Languages Known	  English, Hindi, Nepali, Maithili
+
+
+
+I hereby state that every details and records provided above are true and genuine to my best of knowhow. I shall be personally responsible if found overstated.
+																	

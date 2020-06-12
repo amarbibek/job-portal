@@ -1,0 +1,77 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#menubar{
+	position: absolute;
+	left: 100px;
+	top:10px;
+	//background-color: #003399;
+}
+#company-name{
+	position: absolute;
+	left: 300px;
+	top:10px;
+	font-size: 35px;
+	color: #337ab7;
+}
+.navs{
+	margin-top: 30px;
+	font-size: 25px;
+	padding-left: 5px;
+}
+.navs a{ 
+	padding-left: 10px;
+	font-family: "Times New Roman", Times, serif;
+}
+#main-container{
+	position: absolute;
+	left: 50px;
+	top:150px;
+	min-height: 500px;
+	//width: 100%;
+	width:1250px;
+	//border:2px solid black;
+
+}
+#main-container-index{
+	position: absolute;
+	left: 0px;
+	top:150px;
+	min-height: 500px;
+	width: 100%;
+	//width:1250px;
+	//border:2px solid black;
+
+}
+#register{
+    position: absolute;
+	left: 1150px;
+	top:10px;
+	//background-color: red;
+}
+.jobs{
+	width:800px;
+	min-height: 150px;
+	border:1px solid #d2d8e0;
+	margin-left: 150px;
+	margin-top: 5px;
+	background-color: #97a2af;
+	padding-left: 10px;
+}
+.notifications_list{
+
+	border-bottom: 2px solid red;
+
+}
+
+#footer1{
+	clear: both;
+	//position: relative;
+	//top: auto;
+	margin-top: 100px;
+	height:200px;
+	background-color: #2f2f2f;
+}
+
+
